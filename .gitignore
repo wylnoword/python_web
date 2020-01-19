@@ -21,6 +21,8 @@ lib64/
 parts/
 sdist/
 var/
+.idea
+.vscode
 wheels/
 pip-wheel-metadata/
 share/python-wheels/
@@ -129,4 +131,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+.iml
 
